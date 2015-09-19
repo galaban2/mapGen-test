@@ -1,0 +1,1 @@
+R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_testContent\obj\x86\Debug\MapGen_testContent.contentprojResolveAssemblyReference.cache

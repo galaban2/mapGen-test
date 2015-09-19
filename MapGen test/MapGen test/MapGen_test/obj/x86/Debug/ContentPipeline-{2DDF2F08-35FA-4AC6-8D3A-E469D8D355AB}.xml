@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\GrassTile1.png</Source>
+      <Name>Tiles\GrassTile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\bin\x86\Debug\Content\Tiles\GrassTile1.xnb</Output>
+      <Time>2015-09-16T00:24:43.020753+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\GrassTile2.jpg</Source>
+      <Name>Tiles\GrassTile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\bin\x86\Debug\Content\Tiles\GrassTile2.xnb</Output>
+      <Time>2015-09-16T00:24:44.4568352+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\GrassTile3.png</Source>
+      <Name>Tiles\GrassTile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\bin\x86\Debug\Content\Tiles\GrassTile3.xnb</Output>
+      <Time>2015-09-16T00:24:46.5729562+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Default_Tile.png</Source>
+      <Name>Tiles\Default_Tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\bin\x86\Debug\Content\Tiles\Default_Tile.xnb</Output>
+      <Time>2015-09-17T21:04:04.5458982+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuOverlay\menu.png</Source>
+      <Name>MenuOverlay\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\bin\x86\Debug\Content\MenuOverlay\menu.xnb</Output>
+      <Time>2015-09-16T12:04:01.2590271+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2015-09-16T13:07:27.7837479+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\CollTile.png</Source>
+      <Name>Tiles\CollTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\bin\x86\Debug\Content\Tiles\CollTile.xnb</Output>
+      <Time>2015-09-18T11:13:59.395495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\File_Icon.png</Source>
+      <Name>Tiles\File_Icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\bin\x86\Debug\Content\Tiles\File_Icon.xnb</Output>
+      <Time>2015-09-18T15:36:23.7260192+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2DDF2F08-35FA-4AC6-8D3A-E469D8D355AB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_testContent\</RootDirectory>
+      <LoggerRootDirectory>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\</LoggerRootDirectory>
+      <IntermediateDirectory>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>R:\C# xna\mapGen test\MapGen test\MapGen test\MapGen_test\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-17T14:12:26.5331181+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
